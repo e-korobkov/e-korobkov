@@ -5,6 +5,7 @@
     + BI;
     + 1C.
 - 🌱 I’m currently learning:
+    + Selenium
     + Apache Superset
 - 💞️ I’m looking to work on interesting projects.
 - 📫 You can contact me by e-mail: korobkov.work@gmail.com.
